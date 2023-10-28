@@ -43,17 +43,17 @@ I'm interested in:
 
 I Use:
 ------
-Adobe Creative Suite 
-  (Dreamweaver + Illustrator + Photoshop + Premier Pro)
-C, C++, CSS, SCSS
-Figma
-HTML
-Java
-JavaScript
-Processing
-Python
-Ruby
-Unreal Engine
-Unity
+* Adobe Creative Suite 
+  ** (Dreamweaver + Illustrator + Photoshop + Premier Pro)
+* C, C++, CSS, SCSS
+* Figma
+* HTML
+* Java
+* JavaScript
+* Processing
+* Python
+* Ruby
+* Unreal Engine
+* Unity
 
-Work is posted on [my Git Hub](https://github.com/simonebadaruddin).
+### Work is posted on [my Git Hub](https://github.com/simonebadaruddin).
