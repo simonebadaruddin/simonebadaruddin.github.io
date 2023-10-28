@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Software and Website Development"
+title: "Software and Online Development"
 author: "Simone Badaruddin"
 categories: documentation
 tags: [documentation,sample]
 image: city-1.jpg
 ---
-# Website and Online Design
+# Online Designs & Devlopment
+### UI/UX Works 
 
 ```bash
                              ࿐                      
