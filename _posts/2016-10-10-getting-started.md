@@ -1,18 +1,73 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Software and Website Development"
+author: "Simone Badaruddin"
 categories: documentation
 tags: [documentation,sample]
 image: city-1.jpg
 ---
-
-### Directory Structure
-
-If you are familiar with Jekyll, then the Millennial directory structure shouldn't be too difficult to navigate. The following some highlights of the differences you might notice between the default directory structure. More information on what these folders and files do can be found in the [Jekyll documentation site](https://jekyllrb.com/docs/structure/).
+# Website and Online Design
 
 ```bash
-Millennial/
+                             ࿐                      
+                       ィ ॔    ॓    x   ॓ヽ                    
+                       ・  ハ         ) 
+                       し . ॓८い     |  
+                      くゝ   ｡の  \ケ  |
+                       | :      ノ|   | 
+                       |    ॓ -イ  |   |
+                       |_ノ,- ॔   _|   |_
+                      く ॔౹  \  ♱ /|    ৴   ॓\ 
+                     / ॔ヽ   ॓ \._/ |    |  /\
+                    / ॓  ヘ    v  |    |,  _ ゝ
+                   /  /-  ॓+ ・  ,|    |ケ ॔\  \
+                  / - ॔      ॓.x   |    ||   \  \ 
+                  \y          ॓・.|    |\     ॔  ) 
+                ・/    .へ       ॓|    |- ॓\ / ॓ /
+               ・/    ノ\  \     |    |_ ॔   ,
+              ・/   / ॔ | \  \    |    |ミ  /
+             / / ॔  /   /  \:  ॓.   |    \て ॔ ౹
+            / /   |   |    ॓\___ ॓\_|    |   ॔ 
+           / /    )   |    ・-   ॓ |    | ॔ 
+          / /    (    |    |     |    |
+         ビ/   ./ ॔     |    |     |    |
+          ヒ+/-  ॔      |    |     |    |         
+	              |    |     |    |
+	              |    |     |    |
+	              |    |     |    |                          
+	              |    |     |    |  
+	              |    |     |    |
+	              |    |     |    |
+	              |    |     |    |
+	              |    |     |    |
+	              |    |     |    |
+	              |    |     |    |
+```
+## [endless.girl](https://pages.uoregon.edu/simoneb/index.html)
+### A parody of [endless.horse](http://endless.horse) 
+## Uses
+* CSS
+* JavaScript
+* Python
+# Created via
+* Adobe Dreamweaver
+* CodePen
+* IDLE
+* TextEdit
+
+## [Women in Computer Science](https://www.instagram.com/uowics/)
+### The Social Media Footprint of UO's Women in Computer Science Group
+## Created via
+* Yolmo
+* Blender
+* Adobe Illustrator
+
+## This Site's Directory Structure
+
+The directory structure of this site:
+
+```bash
+Simone Avalon Badaruddin/
 ├── _data                      # Data files
 |  └── settings.yml            # Theme settings and custom text
 ├── _includes                  # Theme includes
@@ -33,6 +88,10 @@ Millennial/
 └── rss-feed.xml               # Generates RSS 2.0 file which Jekyll points to
 ```
 <!--
+### Directory Structure
+
+If you are familiar with Jekyll, then the Millennial directory structure shouldn't be too difficult to navigate. The following some highlights of the differences you might notice between the default directory structure. More information on what these folders and files do can be found in the [Jekyll documentation site](https://jekyllrb.com/docs/structure/).
+
 ### Starting From Scratch
 
 To completely start from scratch, simply delete all the files in the `_posts`, `assets/img`, and `pages` folder, and add your own content. You may also replace the `README.md` file with your own README. Everything in the `_data` folder and `_config.yml` file can be edited to suit your needs. You may also change the `favicon.ico` file to your own favicon.
