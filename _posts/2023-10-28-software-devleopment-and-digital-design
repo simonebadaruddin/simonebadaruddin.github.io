@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Software and Online Development"
+title: "Software Development and Digital Design"
 author: "Simone Badaruddin"
 categories: documentation
 tags: [documentation,sample]
 image: city-1.jpg
 ---
-# Online Designs & Devlopment
+# Software Development and Digital Design
 ### UI/UX Works 
 
 ```bash
@@ -44,7 +44,7 @@ image: city-1.jpg
 	              |    |     |    |
 	              |    |     |    |
 ```
-## [endless.girl](https://pages.uoregon.edu/simoneb/index.html)
+## '[endless.girl](https://pages.uoregon.edu/simoneb/index.html)'
 ### A parody of [endless.horse](http://endless.horse) 
 ## Uses
 * CSS
@@ -57,7 +57,7 @@ image: city-1.jpg
 * TextEdit
 <iframe width="560" height="315" src="https://pages.uoregon.edu/simoneb/index.html" frameborder="0" allowfullscreen></iframe>
 
-## [Women in Computer Science](https://www.instagram.com/uowics/)
+## '[Women in Computer Science](https://www.instagram.com/uowics/)'
 ### The Social Media Footprint of UO's Women in Computer Science Group
 ## Created via
 * Yolmo
