@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Simone Badaruddin"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: crest.png
 ---
 
 Hi <p> &hearts </p> I'm Simone. I'm an artist based in technology & software; 
