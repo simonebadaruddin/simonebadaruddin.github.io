@@ -32,7 +32,7 @@ Millennial/
 ├── README.md                  # Includes all of the documentation for this theme
 └── rss-feed.xml               # Generates RSS 2.0 file which Jekyll points to
 ```
-/*
+<!--
 ### Starting From Scratch
 
 To completely start from scratch, simply delete all the files in the `_posts`, `assets/img`, and `pages` folder, and add your own content. You may also replace the `README.md` file with your own README. Everything in the `_data` folder and `_config.yml` file can be edited to suit your needs. You may also change the `favicon.ico` file to your own favicon.
@@ -198,4 +198,4 @@ This theme is completely free and open source software. You may use it however y
 ## License
 
 Open sourced under the [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md).
-*/
+-->
