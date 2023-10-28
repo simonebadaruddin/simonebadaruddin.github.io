@@ -8,7 +8,6 @@ google-ID: '' # - was: UA-112060364-2
 
 menu:
 - {name: 'Profile',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
