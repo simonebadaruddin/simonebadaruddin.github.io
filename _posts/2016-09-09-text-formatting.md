@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Art"
+author: "Simone Badaruddin"
 categories: sample
 tags: [sample]
 image: arctic-2.jpg
 ---
-
+# Art
+## 3D Scan to Triangular Model of Sailor Moon Bust 
+First, I 3D-scanned my roommate using Polycam. Then I uploaded the scan to Blender, finised it off, and reshaped the hair into the signature Sailor Moon style. Last, I triangulated the model and used Blender's Paper add-on to crete a printed sheet with instructions detailing how to cut and fold the shape of the bust.  
+### Used
+* [Blender](https://www.blender.org)
+* [iPhone 13 Product Red](https://www.apple.com/shop/buy-iphone/iphone-13/6.1-inch-display-128gb-red-unlocked)
+* [Polycam](https://poly.cam)
+##### Thank you, Ella, for being my model &heart;! 
+<!--
 # Markdown Support
 
 As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
@@ -155,3 +163,4 @@ More information on Markdown can be found at the following links:
 - [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
 - [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)
+-->
