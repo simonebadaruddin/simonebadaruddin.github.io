@@ -7,38 +7,39 @@ tags: [sample]
 image: crest-1.jpg
 ---
 
-Hi &hearts; I'm Simone. I'm an artist based in technology & software
+# Hi, I'm Simone &hearts; 
+I'm an artist based in technology & software.
 
 I'm interested in: 
 ------------------
 
 ## 2D & 3D work
 
-*product design 
+* product design 
  
-*modeling 
+* modeling 
   
-*rendering  
+* rendering  
   
-*animation  
+* animation  
   
-*printing
+* printing
 
 ## Website Design & Development 
 
-*UI/UX  
+* UI/UX  
 
-*interactivity
+* interactivity
 
 ## Visuals
 
-*beat visualizations 
+* beat visualizations 
 
-*graphics 
+* graphics 
 
-*styling
+* styling
 
-*fashion
+* fashion
 
 I Use:
 ------
