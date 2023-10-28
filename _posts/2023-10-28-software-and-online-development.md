@@ -55,6 +55,7 @@ image: city-1.jpg
 * CodePen
 * IDLE
 * TextEdit
+<iframe width="560" height="315" src="https://pages.uoregon.edu/simoneb/index.html" frameborder="0" allowfullscreen></iframe>
 
 ## [Women in Computer Science](https://www.instagram.com/uowics/)
 ### The Social Media Footprint of UO's Women in Computer Science Group
