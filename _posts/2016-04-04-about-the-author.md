@@ -1,10 +1,38 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Simone Badaruddin"
 categories: facts
 tags: [sample]
 image: cuba-2.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi <3 I'm Simone. I'm an artist based in technology & software; 
+
+I'm interested in: 
+------------------
+
+2D & 3D work——product design, modeling, rendering, animation, & 
+              printing
+
+Website Development & Design——UI/UX & interactivity
+
+and
+Visuals——beat visualizations, graphics, styling, & fashion.
+
+I Use:
+------
+Adobe Creative Suite 
+  (Dreamweaver + Illustrator + Photoshop + Premier Pro)
+C, C++, CSS, SCSS
+Figma
+HTML
+Java
+JavaScript
+Processing
+Python
+Ruby
+Unreal Engine
+Unity
+
+Check out [my Git Hub](https://github.com/simonebadaruddin).
