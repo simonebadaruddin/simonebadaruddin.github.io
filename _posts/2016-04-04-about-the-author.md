@@ -12,23 +12,33 @@ Hi &hearts; I'm Simone. I'm an artist based in technology & software
 I'm interested in: 
 ------------------
 
-##2D & 3D work—
-  *product design 
-  *modeling 
-  *rendering  
-  *animation  
-  *printing
+## 2D & 3D work
 
-##Website Development & Design—
-  *UI/UX  
-  *interactivity
+*product design 
+ 
+*modeling 
+  
+*rendering  
+  
+*animation  
+  
+*printing
 
-and
-##Visuals—
-  *beat visualizations 
-  *graphics 
-  *styling
-  *fashion
+## Website Design & Development 
+
+*UI/UX  
+
+*interactivity
+
+## Visuals
+
+*beat visualizations 
+
+*graphics 
+
+*styling
+
+*fashion
 
 I Use:
 ------
