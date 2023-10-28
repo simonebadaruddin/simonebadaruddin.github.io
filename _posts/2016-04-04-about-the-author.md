@@ -7,7 +7,7 @@ tags: [sample]
 image: crest-1.jpg
 ---
 
-Hi <p>&hearts;</p> I'm Simone. I'm an artist based in technology & software
+Hi &hearts; I'm Simone. I'm an artist based in technology & software
 
 I'm interested in: 
 ------------------
