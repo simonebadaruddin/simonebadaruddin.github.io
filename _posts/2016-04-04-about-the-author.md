@@ -1,37 +1,34 @@
 ---
 layout: post
-title: "About the Author"
+title: "Profile"
 author: "Simone Badaruddin"
 categories: facts
 tags: [sample]
 image: crest-1.jpg
 ---
 
-Hi <p>&hearts;</p> I'm Simone. I'm an artist based in technology & software; 
+Hi <p>&hearts;</p> I'm Simone. I'm an artist based in technology & software
 
 I'm interested in: 
 ------------------
 
-2D & 3D work——
-  product design 
-  modeling 
-  rendering  
-  animation 
-  & 
-  printing
+##2D & 3D work—
+  *product design 
+  *modeling 
+  *rendering  
+  *animation  
+  *printing
 
-Website Development & Design——
-  UI/UX 
-  & 
-  interactivity
+##Website Development & Design—
+  *UI/UX  
+  *interactivity
 
 and
-Visuals——
-  beat visualizations 
-  graphics 
-  styling
-  & 
-  fashion
+##Visuals—
+  *beat visualizations 
+  *graphics 
+  *styling
+  *fashion
 
 I Use:
 ------
@@ -48,4 +45,4 @@ Ruby
 Unreal Engine
 Unity
 
-Check out [my Git Hub](https://github.com/simonebadaruddin).
+Work is posted on [my Git Hub](https://github.com/simonebadaruddin).
