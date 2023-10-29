@@ -55,7 +55,6 @@ image: crest-1.jpg
 * CodePen
 * IDLE
 * TextEdit
-<iframe width="560" height="315" src="https://codepen.io/simonebadaruddin/pen/OJrYZaJ" frameborder="0" allowfullscreen></iframe>
 
 ## '[Women in Computer Science](https://www.instagram.com/uowics/)'
 ### The Social Media Footprint of UO's Women in Computer Science Group
