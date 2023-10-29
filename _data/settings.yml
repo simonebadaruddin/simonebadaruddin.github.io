@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: '' # - was: UA-112060364-2
+google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
@@ -16,12 +16,12 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/simonebadaruddin/'}
-- {icon: 'github' , link: 'https://github.com/simonebadaruddin'}
+- {icon: 'linkedin', link:   'https://www.linkedin.com/in/simonebadaruddin/'}
+- {icon: 'github' , link:    'https://github.com/simonebadaruddin'}
 - {icon: 'instagram', link:  'https://www.instagram.com/simonebadaruddin/'}
 - {icon: 'envelope', link:   'mailto:simoneb@uoregon.edu'}
-- {icon: 'codepen', link: 'https://codepen.io/simonebadaruddin'}
-- {icon: 'x-twitter', link: 'https://twitter.com/simoneavalon'}
+- {icon: 'codepen', link:    'https://codepen.io/simonebadaruddin'}
+- {icon: 'x-twitter', link:  'https://twitter.com/simoneavalon'}
 - {icon: 'deviantart', link: 'https://www.deviantart.com/simoneavalon'}
 
 
@@ -30,8 +30,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-- sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Feel free to share!'
 
-- related_posts: 'You may also emjoy...'
+related_posts: 'You may also enjoy...'
 
 post_date_prefix: 'Written on'
