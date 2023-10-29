@@ -22,7 +22,7 @@
 
 .fa-x-twitter {
   padding: 5px;
-  @include social-media-icon($twitter-color, $icon-transition-time);
+  @include social-media-icon($x-twitter-color, $icon-transition-time);
 }
 
 .fa-instagram {
