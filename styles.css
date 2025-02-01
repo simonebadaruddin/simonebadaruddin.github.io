@@ -1,0 +1,316 @@
+/* Global Styles */
+body {
+    background-color: #ffffff;
+    color: #000000; /* Default text color */
+    font-family: "Courier New", Courier, monospace;
+    height: 100%;
+    margin: 0;
+    position: relative;
+    text-size-adjust: 100%;
+}
+
+/* Fix for black home screen */
+body.home {
+    background-color: #000; /* Black Background */
+    color: #ffffff; /* White text for readability */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+/* Set the color of links to white on the black home screen */
+body.home a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Ensure hover states are visible */
+body.home a:hover {
+    text-decoration: underline;
+}
+
+/* Style for the LA timestamp */
+body.home .timestamp {
+    font-size: 0.9rem; /* Smaller size for consistency */
+    margin-bottom: 5px; /* Adjusted spacing */
+    padding-bottom: 20px;
+    display: block;
+}
+
+/* Navigation styles for the home screen */
+body.home nav {
+    padding-top: 40px; /* Ensures additional space above the text */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+body.home nav a {
+    font-size: 1rem;
+    text-transform: none;
+}
+
+/* Specific Styles for Resume Page */
+body.cvresume {
+    background-color: #ffffff; /* White Background */
+    color: #000000;           /* Black Text */
+    font-family: "Courier New", Courier, monospace;
+    line-height: 1.6;         /* Better readability */
+    padding: 20px;
+    text-align: left;         /* Align text to the left */
+}
+
+body.cvresume .center-content {
+    max-width: 800px;
+    margin: 0 auto;           /* Center the content horizontally */
+    padding: 20px;
+    background-color: #f9f9f9; /* Slightly lighter background for content */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for focus */
+    border-radius: 10px;
+}
+
+body.cvresume h1 {
+    font-size: 2.4rem; /* Slightly larger heading */
+    margin-bottom: 20px;
+}
+
+body.cvresume h2 {
+    font-size: 1.8rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+body.cvresume p, body.cvresume li {
+    font-size: 1.4rem; /* Standard paragraph text size */
+    margin-bottom: 10px;
+}
+
+body.cvresume ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+body.cvresume .logo {
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 120px; /* Resize the logo for consistency */
+}
+
+body.cvresume a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Other Styles Remain the Same */
+
+body:not(input, select) {
+    user-select: none;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /* Set base font size to 10px for rem calculations */
+    height: 100%;
+}
+
+html.black-bg, html.black-bg body {
+    background-color: #000000;
+}
+
+html.dusty-white-mobile-bg, html.dusty-white-mobile-bg body {
+    background-color: #f2f2f2;
+}
+
+@media (min-width: 768px) {
+    html.dusty-white-mobile-bg, html.dusty-white-mobile-bg body {
+        background-color: transparent;
+    }
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+* {
+    -webkit-tap-highlight-color: rgba(255, 0, 0, 0.08);
+    box-sizing: border-box;
+}
+
+*:focus {
+    outline: none;
+    outline-offset: px;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+*::selection {
+    background-color: #ff0000;
+    color: #ffffff;
+}
+
+*::-moz-selection {
+    background-color: #ff0000;
+    color: #ffffff;
+}
+
+a {
+    cursor: pointer;
+    color: #000000;
+    text-decoration: none;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    -moz-font-feature-settings: "liga", "clig";
+    -webkit-font-feature-settings: "liga", "clig";
+    font-feature-settings: "liga" 1;
+    font-variant-ligatures: common-ligatures;
+    font-weight: normal;
+}
+
+button {
+    border-radius: 0;
+    cursor: pointer;
+    font-family: "Courier New", Courier, monospace;
+}
+
+img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-inline-start: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+input, textarea, select {
+    appearance: none;
+    border-radius: 0;
+}
+
+input:focus, textarea:focus, select:focus {
+    box-shadow: 0;
+}
+
+input::placeholder, textarea::placeholder, select::placeholder {
+    opacity: 1;
+    color: #000000;
+}
+
+input {
+    border: 1px solid #cccccc;
+    display: flex;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1rem;
+    line-height: 4rem;
+    height: 4rem;
+    padding: 0.2rem 1.6rem 0;
+    width: 12rem;
+}
+
+textarea {
+    border: 1px solid #cccccc;
+    display: flex;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.1rem;
+    padding: 1.6rem;
+    resize: none;
+    width: 30rem;
+}
+
+/* Specific Styles for Home Page */
+body.home {
+    background-color: #000; /* Black Background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: left;
+}
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo {
+    width: 150px;
+}
+
+.date-time {
+    font-size: 1rem; /* Adjusted font size for consistency */
+    margin: 10px 0;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 20px;
+}
+
+.socials {
+    display: flex;
+    gap: 10px;
+    margin-top: 30px; /* space above socials */  
+}
+
+.socials img {
+    width: 17px;    /* size of socials icons */ 
+}
+
+/* Specific Styles for Detail Page */
+body.detail {
+    background-color: #fff; /* White Background */
+    color: #000;           /* Black Text */
+}
+
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.header .logo {
+    width: 100px;
+}
+
+.content {
+    text-align: center;
+    padding: 20px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+}
+
+.image-container p {
+    margin-top: 2rem;
+    font-size: 1rem; /* Using rem for consistency */
+}
+
+.description {
+    margin-top: 2rem;
+}
+
+.footer {
+    text-align: center;
+    padding: 1rem 2rem;
+    border-top: 1px solid #ddd;
+    font-size: 1rem;
+}
