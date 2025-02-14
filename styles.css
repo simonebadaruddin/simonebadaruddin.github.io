@@ -36,13 +36,13 @@ body.home a:hover {
 body.home .timestamp {
     font-size: 0.9rem; /* Smaller size for consistency */
     margin-bottom: 5px; /* Adjusted spacing */
-    padding-bottom: 20px;
+    padding-bottom: 2px;
     display: block;
 }
 
 /* Navigation styles for the home screen */
 body.home nav {
-    padding-top: 40px; /* Ensures additional space above the text */
+    padding-top: 22px; /* Ensures additional space above the text */
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -53,53 +53,42 @@ body.home nav a {
     text-transform: none;
 }
 
-/* Specific Styles for Resume Page */
-body.cvresume {
+/* Specific Styles for abt Page */
+body.abt {
     background-color: #ffffff; /* White Background */
     color: #000000;           /* Black Text */
     font-family: "Courier New", Courier, monospace;
-    line-height: 1.6;         /* Better readability */
-    padding: 20px;
+    line-height: .9;         /* Better readability */
+    padding: 1px;
     text-align: left;         /* Align text to the left */
 }
 
-body.cvresume .center-content {
-    max-width: 800px;
+body.abt .center-content {
+    max-width: 700px;
     margin: 0 auto;           /* Center the content horizontally */
     padding: 20px;
-    background-color: #f9f9f9; /* Slightly lighter background for content */
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for focus */
-    border-radius: 10px;
 }
 
-body.cvresume h1 {
-    font-size: 2.4rem; /* Slightly larger heading */
-    margin-bottom: 20px;
-}
-
-body.cvresume h2 {
-    font-size: 1.8rem;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-
-body.cvresume p, body.cvresume li {
-    font-size: 1.4rem; /* Standard paragraph text size */
-    margin-bottom: 10px;
-}
-
-body.cvresume ul {
+body.abt ul {
     list-style-type: disc;
-    padding-left: 20px;
+    padding-left: 40px;
 }
 
-body.cvresume .logo {
+body.abt .logo {
     display: block;
     margin: 0 auto 20px auto;
     width: 120px; /* Resize the logo for consistency */
 }
 
-body.cvresume a:hover {
+/* Style for the LA timestamp */
+body.abt .timestamp {
+    font-size: 0.9rem; /* Smaller size for consistency */
+    margin-bottom: 5px; /* Adjusted spacing */
+    padding-bottom: 2px;
+    display: block;
+}
+
+body.abt a:hover {
     text-decoration: underline; /* Underline on hover */
 }
 
@@ -211,7 +200,7 @@ input {
     border: 1px solid #cccccc;
     display: flex;
     font-family: "Courier New", Courier, monospace;
-    font-size: 1rem;
+    font-size: 0.9rem;
     line-height: 4rem;
     height: 4rem;
     padding: 0.2rem 1.6rem 0;
@@ -222,7 +211,7 @@ textarea {
     border: 1px solid #cccccc;
     display: flex;
     font-family: "Courier New", Courier, monospace;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     padding: 1.6rem;
     resize: none;
     width: 30rem;
