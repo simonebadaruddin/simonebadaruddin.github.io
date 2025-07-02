@@ -137,12 +137,12 @@ html.dusty-white-mobile-bg, html.dusty-white-mobile-bg body {
 }
 
 *::selection {
-    background-color: #ff0000;
+    background-color: #fce0e9;
     color: #ffffff;
 }
 
 *::-moz-selection {
-    background-color: #ff0000;
+    background-color: #fce0e9;
     color: #ffffff;
 }
 
